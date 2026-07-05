@@ -1,22 +1,22 @@
 {
-  "metadata": {
-    "name": "HentaiVN",
-    "author": "longvuu",
-    "version": 4,
-    "source": "https://hentaivnx.vip/",
-    "regexp": "(www.)?hentaivnx.vip/truyen-hentai/[^/]+-\\d+$",
-    "description": "Đọc truyện trên trang HentaiVN",
-    "locale": "vi_VN",
-    "language": "javascript",
-    "type": "comic",
-    "tag": "nsfw"
-  },
-  "script": {
-    "home": "home.js",
-    "genre": "genre.js",
-    "detail": "detail.js",
-    "search": "search.js",
-    "toc": "toc.js",
-    "chap": "chap.js"
-  }
+    "metadata": {
+        "name": "Mimi Hentai",
+        "author": "longvuuu",
+        "version": 1,
+        "source": "https://mimihentai.net",
+        "regexp": "^https?://(www\\.)?mimihentai\\.net/truyen(?:/[^/]+)?/?$",
+        "description": "Extension đọc truyện tranh 18+ từ mimihentai.net",
+        "locale": "vi_VN",
+        "language": "javascript",
+        "type": "comic",
+        "tag": "nsfw"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "search": "search.js"
+    }
 }
