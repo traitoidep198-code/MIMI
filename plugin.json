@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "author": "longvuu",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "TVTruyen",
+      "author": "longvuu", 
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/TVTruyen/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/TVTruyen/icon.png",
+      "version": 1,
+      "source": "https://www.tvtruyen.com",
+      "description": "Đọc truyện trên TVTruyen",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "akaytruyen",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/akaytruyen/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/akaytruyen/icon.png",
+      "version":1,
+      "source": "https://akaytruyen.com/",
+      "description": "Akaytruyen.com là web đọc truyện chính chủ duy nhất của tác giả AkayHau.",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "conduongbachu",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/conduongbachu/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/conduongbachu/icon.png",
+      "version": 2,
+      "source": "https://akaytruyen.com/",
+      "description": "Akaytruyen.com là web đọc truyện chính chủ duy nhất của tác giả AkayHau.",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "metruyenchu",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/metruyenchu/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/metruyenchu/icon.png",
+      "version": 1,
+      "source": "https://metruyenchu.com",
+      "description": "Đọc truyện trên Mê Truyện Chữ",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "doctruyen14",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/doctruyen14/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/doctruyen14/icon.png",
+      "version": 2,
+      "source": "https://doctruyen14.vip/",
+      "description": "Đọc truyện trên doctruyen14.vip",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "banlong",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/banlong/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/banlong/icon.png",
+      "version": 2,
+      "source": "https://banlong.vip/",
+      "description": "Đọc truyện trên banlong.vip",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+    {
+      "name": "69shuba",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/69shu/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/69shu/icon.png",
+      "version": 1, 
+      "source": "https://www.69shuba.com/",
+      "description": "https://www.69shuba.com/ trang truyện tiếng Trung",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
+      "name": "AliceSW",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/alicesw/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/alicesw/icon.png",
+      "version": 1,
+      "source": "https://www.alicesw.com/",
+      "description": "trang truyện seggg.",
+      "locale": "zh_CN",
+      "type": "chinese_novel"
+    },
+    {
+      "name": "lxmanga",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/lxmanga/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/lxmanga/icon.png",
+      "version": 1,
+      "source": "https://lxmanga.blog/",
+      "description": "lxmanga.blog là trang truyện manga/comic",
+      "locale": "vi_VN",
+      "type": "comic"
+    },
+    {
+      "name": "HentaiVN",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/hentaivn/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/hentaivn/icon.png",
+      "version": 1,
+      "source": "https://hentaihvn.tv",
+      "description": "Đọc truyện trên trang HentaiVN",
+      "locale": "vi_VN",
+      "type": "comic"
+    },
+    {
+      "name": "TruyenCom",
+      "author": "longvuu",
+      "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyencom/plugin.zip",
+      "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyencom/icon.png",
+      "version": 1,
+      "source": "https://truyencom.com/",
+      "description": "Đọc truyện trên TruyenCom",
+      "locale": "vi_VN",
+      "type": "novel"
+    },
+  {
+    "name": "wfxs.tw",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/wfxs.tw/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/wfxs.tw/icon.png",
+    "version": 1,
+    "source": "https://wfxs.tw/",
+    "description": "Đọc truyện trên wfxs.tw",
+    "locale": "zh_CN",
+    "type": "chinese_novel"
+  },
+  {
+    "name": "shuqi.com",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/shuqi.com/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/shuqi.com/icon.png",
+    "version": 1,
+    "source": "https://www.shuqi.com/",
+    "description": "Đọc truyện trên shuqi.com",
+    "locale": "zh_CN",
+    "type": "chinese_novel"
+  },
+  {
+    "name": "webtruyendich",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/webtruyendich/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/webtruyendich/icon.png",
+    "version": 1,
+    "source": "https://webtruyendich.com/",
+    "description": "Đọc truyện trên webtruyendich.com",
+    "locale": "vi_VN",
+    "type": "novel"
+  },
+  {
+    "name": "mh18",
+    "author": "longvuu",
+    "path":"https://raw.githubusercontent.com/longvuu/vbook-extensions/master/18mh/plugin.zip",
+    "icon":"https://raw.githubusercontent.com/longvuu/vbook-extensions/master/18mh/icon.png",
+    "version":1,
+    "source": "https://18mh.net/novel",
+    "description":"trang truyện seggg.",
+    "locale":"zh_CN",
+    "type":"chinese_novel"
+  },
+  {
+    "author":"longvuu",
+    "path":"https://raw.githubusercontent.com/longvuu/vbook-extensions/master/goctruyentranhvui17/plugin.zip",
+    "icon":"https://raw.githubusercontent.com/longvuu/vbook-extensions/master/goctruyentranhvui17/icon.png",
+    "version":1,
+    "source":"https://goctruyentranhvui17.com/",
+    "description":"Đọc truyện trên góc truyện tranh vui 17",
+    "locale":"vi_VN",
+    "type":"comic"
+  },{
+    "name": "vihentai",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/vihentai/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/vihentai/icon.png",
+    "version": 1,
+    "source": "https://vi-hentai.pro/",
+    "description": "Đọc truyện trên vi-hentai.pro (NSFW)",
+    "locale": "vi_VN",
+    "type": "comic"
+  },{
+    "name": "mimihentai",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/mimihentai/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/mimihentai/icon.png",
+    "version": 1,
+    "source": "https://mimihentai.com",
+    "description": "Đọc truyện trên mimihentai.com (NSFW)",
+    "locale": "vi_VN",
+    "type": "comic"
+  },{
+    "name": "vinahentai",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/vinahentai/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/vinahentai/icon.png",
+    "version": 1,
+    "source": "https://vinahentai.net",
+    "description": "Đọc truyện trên vinahentai.net (NSFW)",
+    "locale": "vi_VN",
+    "type": "comic"
+  },{
+    "name": "truyenhay24h",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyenhay24h/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyenhay24h/icon.png",
+    "version": 1,
+    "source": "https://truyenhay24h.net/",
+    "description": "Đọc truyện tranh trên truyenhay24h.net",
+    "locale": "vi_VN",
+    "type": "comic"
+  },{
+    "name": "truyentuoitho",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyentuoitho/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/truyentuoitho/icon.png",
+    "version": 1,
+    "source": "https://truyentuoitho.com/",
+    "description": "Đọc truyện tranh trên truyentuoitho.com",
+    "locale": "vi_VN",
+    "type": "comic"
+  },{
+    "name": "nettruyen",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/nettruyen/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/nettruyen/icon.png",
+    "version": 1,
+    "source": "https://nettruyen.org.uk",
+    "description": "Đọc truyện trên trang Nettruyen",
+    "locale": "vi_VN",
+    "type": "comic" 
+  },{
+    "name": "tuthienbao",
+    "author": "longvuu",
+    "path": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/tuthienbao/plugin.zip",
+    "icon": "https://raw.githubusercontent.com/longvuu/vbook-extensions/master/tuthienbao/icon.png",
+    "version": 1,
+    "source": "https://tuthienbao.com/forum/",
+    "description": "Đọc truyện tranh trên diễn đàn tuthienbao.com",
+    "locale": "vi_VN",
+    "type": "comic"
+  }
+  ]
+}
